@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Pedro Lucas, a Software Engineering student (7th semester).<br><br>I'm looking for an internship to expand my knowledge, improve my skills, and contribute to relevant solutions.</h2>
+<h2 align="left">Hello, I'm Pedro Lucas, a Software Engineering student (8th semester).<br><br>I'm looking for an internship to expand my knowledge, improve my skills, and contribute to relevant solutions.</h2>
 
 ###
 
